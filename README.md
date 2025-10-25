@@ -1,4 +1,4 @@
-# Maze Image Classification with MobileNetV2
+# Image Classification with MobileNetV2
 
 This project trains a Convolutional Neural Network using MobileNetV2 with transfer learning to classify images from a custom dataset . It also includes webcam image capture and real-time prediction using Google Colab.
 
